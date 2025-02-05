@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 121,
+      "title": "iPhone 5s",
+      "price": 199.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png",
+      "description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+      "category": "smartphones"
+    },
+    {
+      "id": 122,
+      "title": "iPhone 6",
+      "price": 299.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png",
+      "description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+      "category": "smartphones"
+    },
+    {
+      "id": 123,
+      "title": "iPhone 13 Pro",
+      "price": 1099.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%2013%20Pro/thumbnail.png",
+      "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+      "category": "smartphones"
+    },
+    {
+      "id": 124,
+      "title": "iPhone X",
+      "price": 899.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+      "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+      "category": "smartphones"
+    },
+    {
+      "id": 125,
+      "title": "Oppo A57",
+      "price": 249.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png",
+      "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+      "category": "smartphones"
+    },
+    {
+      "id": 126,
+      "title": "Oppo F19 Pro Plus",
+      "price": 399.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro%20Plus/thumbnail.png",
+      "description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+      "category": "smartphones"
+    },
+    {
+      "id": 127,
+      "title": "Oppo K1",
+      "price": 299.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png",
+      "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+      "category": "smartphones"
+    },
+    {
+      "id": 128,
+      "title": "Realme C35",
+      "price": 149.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png",
+      "description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+      "category": "smartphones"
+    },
+    {
+      "id": 129,
+      "title": "Realme X",
+      "price": 299.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png",
+      "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+      "category": "smartphones"
+    },
+    {
+      "id": 130,
+      "title": "Realme XT",
+      "price": 349.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png",
+      "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+      "category": "smartphones"
+    },
+    {
+      "id": 78,
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "price": 1999.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png",
+      "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+      "category": "laptops"
+    },
+    {
+      "id": 79,
+      "title": "Asus Zenbook Pro Dual Screen Laptop",
+      "price": 1799.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png",
+      "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+      "category": "laptops"
+    },
+    {
+      "id": 80,
+      "title": "Huawei Matebook X Pro",
+      "price": 1399.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png",
+      "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+      "category": "laptops"
+    },
+    {
+      "id": 159,
+      "title": "iPad Mini 2021 Starlight",
+      "price": 499.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/tablets/iPad%20Mini%202021%20Starlight/thumbnail.png",
+      "description": "The iPad Mini 2021 in Starlight is a compact and powerful tablet from Apple. Featuring a stunning Retina display, powerful A-series chip, and a sleek design, it offers a premium tablet experience.",
+      "category": "tablets"
+    },
+    {
+      "id": 160,
+      "title": "Samsung Galaxy Tab S8 Plus Grey",
+      "price": 599.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png",
+      "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+      "category": "tablets"
+    },
+    {
+      "id": 161,
+      "title": "Samsung Galaxy Tab White",
+      "price": 349.99,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20White/thumbnail.png",
+      "description": "The Samsung Galaxy Tab in White is a sleek and versatile Android tablet. With a vibrant display, long-lasting battery, and a range of features, it offers a great user experience for various tasks.",
+      "category": "tablets"
+    }
+  ]
+}
